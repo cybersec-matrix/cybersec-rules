@@ -20,7 +20,7 @@ layout: "base.njk"
     2. Room shilling (DMs mods first)
     3. Racism/sexism/yadda/yadda/yadda
     4. Porn/gore
-    5. Warez/hacked data/PII (*we're not against it in principle ;)*)
+    5. Warez/hacked data/PII
 5. **Use English**
 6. **For feedback or mute/ban repeals**
     * Use the off-topic, or DM one, or many, of the mods
