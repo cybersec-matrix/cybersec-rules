@@ -1,0 +1,39 @@
+body {
+    background-color: #373737;
+    color: white;
+    font-family: Verdana;
+    width: 960px;
+    margin: 0 auto
+}
+
+header {
+    text-align: center;
+}
+
+#join_button {
+    height: 100px;
+}
+
+#main_logo {
+    width: 150px;
+}
+
+footer {
+    font-size: 0.75em;
+    text-align: center
+}
+
+a:link,
+a:visited {
+    background-color: #373737;
+    color: white;
+    border: 10px white;
+    padding: 10px 20px;
+    display: inline-block
+}
+
+a:hover,
+a:active {
+    background-color: green;
+    color: white
+}
