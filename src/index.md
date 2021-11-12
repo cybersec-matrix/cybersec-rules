@@ -25,6 +25,6 @@ layout: "base.njk"
     * *"Do Not Feed The Trolls"*
     * Trolls thrive on attention, try not to address them, even in a meta-way after they're moderated
     * If you really want to, use the [off topic](https://matrix.to/#/#cybersec-offtopic:matrix.org)
-5. **Use English**
-6. **For feedback or mute/ban repeals**
+6. **Use English**
+7. **For feedback or mute/ban repeals**
     * Use the off-topic, or DM one, or many, of the mods
