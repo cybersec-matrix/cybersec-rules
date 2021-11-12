@@ -23,7 +23,7 @@ layout: "base.njk"
     5. Warez/hacked data/PII
 5. **DNFTT**
     * *"Do Not Feed The Trolls"*
-    * Trolls thrive on attention, try not to address them, even in a meta-way after they're moderated
+    * Trolls thrive on attention: Try not to address their efforts at all
     * If you really want to, use the off topic
 6. **Use English**
 7. **For feedback or mute/ban repeals**
