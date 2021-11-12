@@ -12,9 +12,9 @@ layout: "base.njk"
     * Keep discussion focused around information security
     * Try to avoid writing 3 messages in a row; each with less than 5 words.
     * There's no need for rooms to be active 24 hours per day: Inactivity isn't an excuse for off-topic spam.
-3. **Use the [off topic](https://matrix.to/#/#cybersec-offtopic:matrix.org)**
+3. **Use the off topic**
     * Rules are significantly less strict here
-    * If a mod asks you to move a discussion to the [off topic](https://matrix.to/#/#cybersec-offtopic:matrix.org), move it
+    * If a mod asks you to move a discussion to the off topic, move it
 4. **Plz no post:** 
     1. Spam/scams
     2. Room shilling (DMs mods first)
@@ -24,7 +24,7 @@ layout: "base.njk"
 5. **DNFTT**
     * *"Do Not Feed The Trolls"*
     * Trolls thrive on attention, try not to address them, even in a meta-way after they're moderated
-    * If you really want to, use the [off topic](https://matrix.to/#/#cybersec-offtopic:matrix.org)
+    * If you really want to, use the off topic
 6. **Use English**
 7. **For feedback or mute/ban repeals**
     * Use the off-topic, or DM one, or many, of the mods
