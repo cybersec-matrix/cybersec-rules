@@ -23,8 +23,8 @@ footer {
     text-align: center
 }
 
-a:link,
-a:visited {
+#join_button_link:link,
+#join_button_link:visited {
     background-color: #373737;
     color: white;
     border: 10px white;
@@ -32,8 +32,14 @@ a:visited {
     display: inline-block
 }
 
-a:hover,
-a:active {
+#join_button_link:hover,
+#join_button_link:active {
     background-color: green;
     color: white
+}
+
+footer > a, a:link, a:visited, a:hover, a:active {
+  color: inherit;
+  text-decoration: inherit;
+  font-weight: inherit;
 }
