@@ -12,7 +12,7 @@ layout: "base.njk"
     * Keep discussion focused around information security
     * Try to avoid writing 3 messages in a row; each with less than 5 words.
     * There's no need for rooms to be active 24 hours per day: Inactivity isn't an excuse for off-topic spam.
-3. **Use the off-topic**
+3. **Use the off topic**
     * Rules are significantly less strict here
     * If a mod asks you to move a discussion to the off-topic, move it
 4. **Plz no post:** 
@@ -21,6 +21,10 @@ layout: "base.njk"
     3. Racism/sexism/yadda/yadda/yadda
     4. Porn/gore
     5. Warez/hacked data/PII
+5. **DNFTT**
+    * *"Do Not Feed The Trolls"*
+    * Trolls thrive on attention, try not to address them, even in a meta-way after they're moderated
+    * If you really want to, use the off topic
 5. **Use English**
 6. **For feedback or mute/ban repeals**
     * Use the off-topic, or DM one, or many, of the mods
